@@ -1,0 +1,1 @@
+Generic iterator for Odin.
